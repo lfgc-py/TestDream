@@ -12,8 +12,8 @@ __________
 
 ##### Lista de Links:
 
-- [Vídeo 1](https://www.youtube.com/watch?v=H2E76CEuct0&list=LL&index=231) 
-- [Vídeo 2](https://www.youtube.com/watch?v=OW1QrB0dv6I&list=LL&index=226)
+- [Vídeo 1](https://youtu.be/H2E76CEuct0?si=kqqAKVckOQRHAlyx) 
+- [Vídeo 2](https://youtu.be/QaFqZpS7OrU?si=CCQzInmxdTMDKNQu)
 
 ##### Imágen:
 
